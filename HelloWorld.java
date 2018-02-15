@@ -1,6 +1,6 @@
 public class HelloWorld{
 
-void main()
+public static void main()
 {System.out.println("Hello World for lab 7");
 
 
