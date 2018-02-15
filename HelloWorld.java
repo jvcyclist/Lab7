@@ -1,5 +1,7 @@
+package Lab7;
+
 public class HelloWorld{
   public static void main(String[] args){
-    System.out.print("Hello World for lab seven");
+    System.out.println("Hello World for lab seven");
   }
 }
